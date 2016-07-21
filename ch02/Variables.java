@@ -2,7 +2,7 @@
  * Examples from Chapter 2.
  */
 public class Variables {
-
+//test
     public static void main(String[] args) {
 
         String message;
